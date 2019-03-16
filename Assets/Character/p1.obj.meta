@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 0e165a111d999804db575b97067f823b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: character/human/male/humanmale_hd.m2_Geoset_000-Main
+    100002: character/human/male/humanmale_hd.m2_Geoset_1301-Trousers
+    100004: character/human/male/humanmale_hd.m2_Geoset_2002-Feet
+    100006: character/human/male/humanmale_hd.m2_Geoset_2201
+    100008: character/human/male/humanmale_hd.m2_Geoset_401-Bracers
+    100010: character/human/male/humanmale_hd.m2_Geoset_501-Boots
+    100012: item/objectcomponents/head/helm_plate_raiddeathknight_h_01_scm.m2_Geoset_000
+    100014: item/objectcomponents/shoulder/shoulder_plate_raidwarriormythic_s_01_l.m2_Geoset_000
+    100016: item/objectcomponents/shoulder/shoulder_plate_raidwarriormythic_s_01_r.m2_Geoset_000
+    100018: item/objectcomponents/waist/buckle_plate_raidwarrior_s_01.m2_Geoset_000
+    100020: item/objectcomponents/weapon/sword_2h_artifactarathor_d_01.m2_Geoset_000
+    100022: //RootNode
+    400000: character/human/male/humanmale_hd.m2_Geoset_000-Main
+    400002: character/human/male/humanmale_hd.m2_Geoset_1301-Trousers
+    400004: character/human/male/humanmale_hd.m2_Geoset_2002-Feet
+    400006: character/human/male/humanmale_hd.m2_Geoset_2201
+    400008: character/human/male/humanmale_hd.m2_Geoset_401-Bracers
+    400010: character/human/male/humanmale_hd.m2_Geoset_501-Boots
+    400012: item/objectcomponents/head/helm_plate_raiddeathknight_h_01_scm.m2_Geoset_000
+    400014: item/objectcomponents/shoulder/shoulder_plate_raidwarriormythic_s_01_l.m2_Geoset_000
+    400016: item/objectcomponents/shoulder/shoulder_plate_raidwarriormythic_s_01_r.m2_Geoset_000
+    400018: item/objectcomponents/waist/buckle_plate_raidwarrior_s_01.m2_Geoset_000
+    400020: item/objectcomponents/weapon/sword_2h_artifactarathor_d_01.m2_Geoset_000
+    400022: //RootNode
+    2100000: character_human_male_humanmale_hd.m2_Geoset_000-MainMat
+    2100002: character_human_male_humanmale_hd.m2_Geoset_1301-TrousersMat
+    2100004: character_human_male_humanmale_hd.m2_Geoset_2002-FeetMat
+    2100006: character_human_male_humanmale_hd.m2_Geoset_2201Mat
+    2100008: character_human_male_humanmale_hd.m2_Geoset_401-BracersMat
+    2100010: character_human_male_humanmale_hd.m2_Geoset_501-BootsMat
+    2100012: item_objectcomponents_head_helm_plate_raiddeathknight_h_01_scm.m2_Geoset_000Mat
+    2100014: item_objectcomponents_shoulder_shoulder_plate_raidwarriormythic_s_01_l.m2_Geoset_000Mat
+    2100016: item_objectcomponents_shoulder_shoulder_plate_raidwarriormythic_s_01_r.m2_Geoset_000Mat
+    2100018: item_objectcomponents_waist_buckle_plate_raidwarrior_s_01.m2_Geoset_000Mat
+    2100020: item_objectcomponents_weapon_sword_2h_artifactarathor_d_01.m2_Geoset_000Mat
+    2300000: character/human/male/humanmale_hd.m2_Geoset_000-Main
+    2300002: character/human/male/humanmale_hd.m2_Geoset_1301-Trousers
+    2300004: character/human/male/humanmale_hd.m2_Geoset_2002-Feet
+    2300006: character/human/male/humanmale_hd.m2_Geoset_2201
+    2300008: character/human/male/humanmale_hd.m2_Geoset_401-Bracers
+    2300010: character/human/male/humanmale_hd.m2_Geoset_501-Boots
+    2300012: item/objectcomponents/head/helm_plate_raiddeathknight_h_01_scm.m2_Geoset_000
+    2300014: item/objectcomponents/shoulder/shoulder_plate_raidwarriormythic_s_01_l.m2_Geoset_000
+    2300016: item/objectcomponents/shoulder/shoulder_plate_raidwarriormythic_s_01_r.m2_Geoset_000
+    2300018: item/objectcomponents/waist/buckle_plate_raidwarrior_s_01.m2_Geoset_000
+    2300020: item/objectcomponents/weapon/sword_2h_artifactarathor_d_01.m2_Geoset_000
+    3300000: character/human/male/humanmale_hd.m2_Geoset_000-Main
+    3300002: character/human/male/humanmale_hd.m2_Geoset_1301-Trousers
+    3300004: character/human/male/humanmale_hd.m2_Geoset_2002-Feet
+    3300006: character/human/male/humanmale_hd.m2_Geoset_2201
+    3300008: character/human/male/humanmale_hd.m2_Geoset_401-Bracers
+    3300010: character/human/male/humanmale_hd.m2_Geoset_501-Boots
+    3300012: item/objectcomponents/head/helm_plate_raiddeathknight_h_01_scm.m2_Geoset_000
+    3300014: item/objectcomponents/shoulder/shoulder_plate_raidwarriormythic_s_01_l.m2_Geoset_000
+    3300016: item/objectcomponents/shoulder/shoulder_plate_raidwarriormythic_s_01_r.m2_Geoset_000
+    3300018: item/objectcomponents/waist/buckle_plate_raidwarrior_s_01.m2_Geoset_000
+    3300020: item/objectcomponents/weapon/sword_2h_artifactarathor_d_01.m2_Geoset_000
+    4300000: character/human/male/humanmale_hd.m2_Geoset_000-Main
+    4300002: character/human/male/humanmale_hd.m2_Geoset_1301-Trousers
+    4300004: character/human/male/humanmale_hd.m2_Geoset_2002-Feet
+    4300006: character/human/male/humanmale_hd.m2_Geoset_2201
+    4300008: character/human/male/humanmale_hd.m2_Geoset_401-Bracers
+    4300010: character/human/male/humanmale_hd.m2_Geoset_501-Boots
+    4300012: item/objectcomponents/head/helm_plate_raiddeathknight_h_01_scm.m2_Geoset_000
+    4300014: item/objectcomponents/shoulder/shoulder_plate_raidwarriormythic_s_01_l.m2_Geoset_000
+    4300016: item/objectcomponents/shoulder/shoulder_plate_raidwarriormythic_s_01_r.m2_Geoset_000
+    4300018: item/objectcomponents/waist/buckle_plate_raidwarrior_s_01.m2_Geoset_000
+    4300020: item/objectcomponents/weapon/sword_2h_artifactarathor_d_01.m2_Geoset_000
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

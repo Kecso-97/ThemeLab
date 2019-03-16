@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: edfacb8ade602ce48b6eba18d7f85436
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: creature/aggramar/aggramar
+    100004: creature/aggramar/aggramar 1
+    100006: creature/aggramar/aggramar_bone_0
+    100008: creature/aggramar/aggramar_bone_1
+    100010: creature/aggramar/aggramar_bone_10
+    100012: creature/aggramar/aggramar_bone_11
+    100014: creature/aggramar/aggramar_bone_12
+    100016: creature/aggramar/aggramar_bone_13
+    100018: creature/aggramar/aggramar_bone_14
+    100020: creature/aggramar/aggramar_bone_15
+    100022: creature/aggramar/aggramar_bone_16
+    100024: creature/aggramar/aggramar_bone_17
+    100026: creature/aggramar/aggramar_bone_18
+    100028: creature/aggramar/aggramar_bone_19
+    100030: creature/aggramar/aggramar_bone_2
+    100032: creature/aggramar/aggramar_bone_20
+    100034: creature/aggramar/aggramar_bone_21
+    100036: creature/aggramar/aggramar_bone_22
+    100038: creature/aggramar/aggramar_bone_23
+    100040: creature/aggramar/aggramar_bone_24
+    100042: creature/aggramar/aggramar_bone_25
+    100044: creature/aggramar/aggramar_bone_26
+    100046: creature/aggramar/aggramar_bone_27
+    100048: creature/aggramar/aggramar_bone_28
+    100050: creature/aggramar/aggramar_bone_29
+    100052: creature/aggramar/aggramar_bone_3
+    100054: creature/aggramar/aggramar_bone_30
+    100056: creature/aggramar/aggramar_bone_31
+    100058: creature/aggramar/aggramar_bone_32
+    100060: creature/aggramar/aggramar_bone_33
+    100062: creature/aggramar/aggramar_bone_34
+    100064: creature/aggramar/aggramar_bone_35
+    100066: creature/aggramar/aggramar_bone_36
+    100068: creature/aggramar/aggramar_bone_37
+    100070: creature/aggramar/aggramar_bone_38
+    100072: creature/aggramar/aggramar_bone_39
+    100074: creature/aggramar/aggramar_bone_4
+    100076: creature/aggramar/aggramar_bone_40
+    100078: creature/aggramar/aggramar_bone_41
+    100080: creature/aggramar/aggramar_bone_42
+    100082: creature/aggramar/aggramar_bone_43
+    100084: creature/aggramar/aggramar_bone_44
+    100086: creature/aggramar/aggramar_bone_45
+    100088: creature/aggramar/aggramar_bone_46
+    100090: creature/aggramar/aggramar_bone_47
+    100092: creature/aggramar/aggramar_bone_48
+    100094: creature/aggramar/aggramar_bone_49
+    100096: creature/aggramar/aggramar_bone_5
+    100098: creature/aggramar/aggramar_bone_50
+    100100: creature/aggramar/aggramar_bone_51
+    100102: creature/aggramar/aggramar_bone_52
+    100104: creature/aggramar/aggramar_bone_53
+    100106: creature/aggramar/aggramar_bone_54
+    100108: creature/aggramar/aggramar_bone_55
+    100110: creature/aggramar/aggramar_bone_56
+    100112: creature/aggramar/aggramar_bone_57
+    100114: creature/aggramar/aggramar_bone_58
+    100116: creature/aggramar/aggramar_bone_59
+    100118: creature/aggramar/aggramar_bone_6
+    100120: creature/aggramar/aggramar_bone_60
+    100122: creature/aggramar/aggramar_bone_61
+    100124: creature/aggramar/aggramar_bone_62
+    100126: creature/aggramar/aggramar_bone_63
+    100128: creature/aggramar/aggramar_bone_64
+    100130: creature/aggramar/aggramar_bone_65
+    100132: creature/aggramar/aggramar_bone_66
+    100134: creature/aggramar/aggramar_bone_67
+    100136: creature/aggramar/aggramar_bone_68
+    100138: creature/aggramar/aggramar_bone_69
+    100140: creature/aggramar/aggramar_bone_7
+    100142: creature/aggramar/aggramar_bone_70
+    100144: creature/aggramar/aggramar_bone_71
+    100146: creature/aggramar/aggramar_bone_72
+    100148: creature/aggramar/aggramar_bone_73
+    100150: creature/aggramar/aggramar_bone_74
+    100152: creature/aggramar/aggramar_bone_75
+    100154: creature/aggramar/aggramar_bone_76
+    100156: creature/aggramar/aggramar_bone_77
+    100158: creature/aggramar/aggramar_bone_78
+    100160: creature/aggramar/aggramar_bone_79
+    100162: creature/aggramar/aggramar_bone_8
+    100164: creature/aggramar/aggramar_bone_80
+    100166: creature/aggramar/aggramar_bone_81
+    100168: creature/aggramar/aggramar_bone_82
+    100170: creature/aggramar/aggramar_bone_83
+    100172: creature/aggramar/aggramar_bone_84
+    100174: creature/aggramar/aggramar_bone_85
+    100176: creature/aggramar/aggramar_bone_9
+    400000: //RootNode
+    400002: creature/aggramar/aggramar
+    400004: creature/aggramar/aggramar 1
+    400006: creature/aggramar/aggramar_bone_0
+    400008: creature/aggramar/aggramar_bone_1
+    400010: creature/aggramar/aggramar_bone_10
+    400012: creature/aggramar/aggramar_bone_11
+    400014: creature/aggramar/aggramar_bone_12
+    400016: creature/aggramar/aggramar_bone_13
+    400018: creature/aggramar/aggramar_bone_14
+    400020: creature/aggramar/aggramar_bone_15
+    400022: creature/aggramar/aggramar_bone_16
+    400024: creature/aggramar/aggramar_bone_17
+    400026: creature/aggramar/aggramar_bone_18
+    400028: creature/aggramar/aggramar_bone_19
+    400030: creature/aggramar/aggramar_bone_2
+    400032: creature/aggramar/aggramar_bone_20
+    400034: creature/aggramar/aggramar_bone_21
+    400036: creature/aggramar/aggramar_bone_22
+    400038: creature/aggramar/aggramar_bone_23
+    400040: creature/aggramar/aggramar_bone_24
+    400042: creature/aggramar/aggramar_bone_25
+    400044: creature/aggramar/aggramar_bone_26
+    400046: creature/aggramar/aggramar_bone_27
+    400048: creature/aggramar/aggramar_bone_28
+    400050: creature/aggramar/aggramar_bone_29
+    400052: creature/aggramar/aggramar_bone_3
+    400054: creature/aggramar/aggramar_bone_30
+    400056: creature/aggramar/aggramar_bone_31
+    400058: creature/aggramar/aggramar_bone_32
+    400060: creature/aggramar/aggramar_bone_33
+    400062: creature/aggramar/aggramar_bone_34
+    400064: creature/aggramar/aggramar_bone_35
+    400066: creature/aggramar/aggramar_bone_36
+    400068: creature/aggramar/aggramar_bone_37
+    400070: creature/aggramar/aggramar_bone_38
+    400072: creature/aggramar/aggramar_bone_39
+    400074: creature/aggramar/aggramar_bone_4
+    400076: creature/aggramar/aggramar_bone_40
+    400078: creature/aggramar/aggramar_bone_41
+    400080: creature/aggramar/aggramar_bone_42
+    400082: creature/aggramar/aggramar_bone_43
+    400084: creature/aggramar/aggramar_bone_44
+    400086: creature/aggramar/aggramar_bone_45
+    400088: creature/aggramar/aggramar_bone_46
+    400090: creature/aggramar/aggramar_bone_47
+    400092: creature/aggramar/aggramar_bone_48
+    400094: creature/aggramar/aggramar_bone_49
+    400096: creature/aggramar/aggramar_bone_5
+    400098: creature/aggramar/aggramar_bone_50
+    400100: creature/aggramar/aggramar_bone_51
+    400102: creature/aggramar/aggramar_bone_52
+    400104: creature/aggramar/aggramar_bone_53
+    400106: creature/aggramar/aggramar_bone_54
+    400108: creature/aggramar/aggramar_bone_55
+    400110: creature/aggramar/aggramar_bone_56
+    400112: creature/aggramar/aggramar_bone_57
+    400114: creature/aggramar/aggramar_bone_58
+    400116: creature/aggramar/aggramar_bone_59
+    400118: creature/aggramar/aggramar_bone_6
+    400120: creature/aggramar/aggramar_bone_60
+    400122: creature/aggramar/aggramar_bone_61
+    400124: creature/aggramar/aggramar_bone_62
+    400126: creature/aggramar/aggramar_bone_63
+    400128: creature/aggramar/aggramar_bone_64
+    400130: creature/aggramar/aggramar_bone_65
+    400132: creature/aggramar/aggramar_bone_66
+    400134: creature/aggramar/aggramar_bone_67
+    400136: creature/aggramar/aggramar_bone_68
+    400138: creature/aggramar/aggramar_bone_69
+    400140: creature/aggramar/aggramar_bone_7
+    400142: creature/aggramar/aggramar_bone_70
+    400144: creature/aggramar/aggramar_bone_71
+    400146: creature/aggramar/aggramar_bone_72
+    400148: creature/aggramar/aggramar_bone_73
+    400150: creature/aggramar/aggramar_bone_74
+    400152: creature/aggramar/aggramar_bone_75
+    400154: creature/aggramar/aggramar_bone_76
+    400156: creature/aggramar/aggramar_bone_77
+    400158: creature/aggramar/aggramar_bone_78
+    400160: creature/aggramar/aggramar_bone_79
+    400162: creature/aggramar/aggramar_bone_8
+    400164: creature/aggramar/aggramar_bone_80
+    400166: creature/aggramar/aggramar_bone_81
+    400168: creature/aggramar/aggramar_bone_82
+    400170: creature/aggramar/aggramar_bone_83
+    400172: creature/aggramar/aggramar_bone_84
+    400174: creature/aggramar/aggramar_bone_85
+    400176: creature/aggramar/aggramar_bone_9
+    2100000: creature_aggramar_aggramar_0
+    2100002: creature_aggramar_aggramar_1
+    2100004: creature_aggramar_aggramar_2
+    2100006: creature_aggramar_aggramar_3
+    2100008: creature_aggramar_aggramar_4
+    2100010: creature_aggramar_aggramar_5
+    2100012: creature_aggramar_aggramar_6
+    2100014: creature_aggramar_aggramar_7
+    4300000: creature/aggramar/aggramar
+    7400000: Stand [0]
+    7400002: AttackUnarmed [6]
+    7400004: AttackUnarmed [7]
+    7400006: Death [14]
+    7400008: Run [32]
+    7400010: ReadyUnarmed [42]
+    9500000: //RootNode
+    13700000: creature/aggramar/aggramar
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand [0]
+      takeName: Stand [0]
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackUnarmed [6]
+      takeName: AttackUnarmed [6]
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackUnarmed [7]
+      takeName: AttackUnarmed [7]
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death [14]
+      takeName: Death [14]
+      firstFrame: 0
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run [32]
+      takeName: Run [32]
+      firstFrame: 0
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReadyUnarmed [42]
+      takeName: ReadyUnarmed [42]
+      firstFrame: 0
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

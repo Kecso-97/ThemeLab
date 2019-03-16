@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c41ee3656755d9d42823d7220d402860
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {fileID: 224099114403263514, guid: 79cc898e137a29a419a9cb1abcb779b5,
+      type: 2}
+  - healthFill: {fileID: 114655435088837546, guid: 79cc898e137a29a419a9cb1abcb779b5,
+      type: 2}
+  - manaFill: {fileID: 114551522337537636, guid: 79cc898e137a29a419a9cb1abcb779b5,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

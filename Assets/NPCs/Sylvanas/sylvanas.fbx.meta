@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 07ee8fdcd8219f7479b0ecfa7752afc5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: creature/ladysylvanaswindrunner/ladysylvanaswindrunner
+    100002: creature/ladysylvanaswindrunner/ladysylvanaswindrunner 1
+    100004: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_0
+    100006: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_1
+    100008: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_10
+    100010: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_100
+    100012: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_101
+    100014: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_102
+    100016: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_103
+    100018: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_104
+    100020: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_105
+    100022: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_106
+    100024: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_107
+    100026: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_108
+    100028: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_109
+    100030: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_11
+    100032: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_110
+    100034: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_111
+    100036: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_112
+    100038: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_113
+    100040: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_114
+    100042: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_115
+    100044: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_116
+    100046: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_117
+    100048: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_118
+    100050: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_119
+    100052: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_12
+    100054: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_120
+    100056: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_121
+    100058: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_122
+    100060: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_123
+    100062: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_124
+    100064: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_125
+    100066: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_126
+    100068: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_127
+    100070: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_128
+    100072: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_129
+    100074: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_13
+    100076: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_130
+    100078: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_131
+    100080: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_132
+    100082: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_133
+    100084: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_134
+    100086: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_135
+    100088: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_136
+    100090: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_137
+    100092: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_138
+    100094: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_139
+    100096: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_14
+    100098: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_15
+    100100: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_16
+    100102: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_17
+    100104: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_18
+    100106: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_19
+    100108: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_2
+    100110: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_20
+    100112: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_21
+    100114: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_22
+    100116: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_23
+    100118: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_24
+    100120: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_25
+    100122: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_26
+    100124: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_27
+    100126: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_28
+    100128: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_29
+    100130: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_3
+    100132: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_30
+    100134: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_31
+    100136: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_32
+    100138: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_33
+    100140: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_34
+    100142: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_35
+    100144: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_36
+    100146: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_37
+    100148: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_38
+    100150: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_39
+    100152: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_4
+    100154: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_40
+    100156: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_41
+    100158: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_42
+    100160: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_43
+    100162: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_44
+    100164: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_45
+    100166: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_46
+    100168: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_47
+    100170: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_48
+    100172: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_49
+    100174: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_5
+    100176: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_50
+    100178: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_51
+    100180: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_52
+    100182: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_53
+    100184: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_54
+    100186: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_55
+    100188: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_56
+    100190: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_57
+    100192: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_58
+    100194: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_59
+    100196: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_6
+    100198: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_60
+    100200: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_61
+    100202: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_62
+    100204: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_63
+    100206: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_64
+    100208: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_65
+    100210: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_66
+    100212: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_67
+    100214: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_68
+    100216: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_69
+    100218: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_7
+    100220: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_70
+    100222: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_71
+    100224: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_72
+    100226: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_73
+    100228: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_74
+    100230: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_75
+    100232: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_76
+    100234: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_77
+    100236: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_78
+    100238: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_79
+    100240: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_8
+    100242: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_80
+    100244: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_81
+    100246: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_82
+    100248: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_83
+    100250: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_84
+    100252: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_85
+    100254: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_86
+    100256: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_87
+    100258: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_88
+    100260: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_89
+    100262: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_9
+    100264: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_90
+    100266: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_91
+    100268: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_92
+    100270: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_93
+    100272: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_94
+    100274: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_95
+    100276: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_96
+    100278: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_97
+    100280: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_98
+    100282: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_99
+    100284: //RootNode
+    400000: creature/ladysylvanaswindrunner/ladysylvanaswindrunner
+    400002: creature/ladysylvanaswindrunner/ladysylvanaswindrunner 1
+    400004: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_0
+    400006: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_1
+    400008: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_10
+    400010: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_100
+    400012: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_101
+    400014: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_102
+    400016: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_103
+    400018: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_104
+    400020: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_105
+    400022: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_106
+    400024: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_107
+    400026: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_108
+    400028: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_109
+    400030: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_11
+    400032: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_110
+    400034: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_111
+    400036: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_112
+    400038: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_113
+    400040: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_114
+    400042: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_115
+    400044: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_116
+    400046: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_117
+    400048: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_118
+    400050: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_119
+    400052: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_12
+    400054: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_120
+    400056: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_121
+    400058: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_122
+    400060: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_123
+    400062: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_124
+    400064: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_125
+    400066: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_126
+    400068: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_127
+    400070: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_128
+    400072: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_129
+    400074: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_13
+    400076: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_130
+    400078: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_131
+    400080: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_132
+    400082: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_133
+    400084: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_134
+    400086: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_135
+    400088: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_136
+    400090: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_137
+    400092: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_138
+    400094: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_139
+    400096: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_14
+    400098: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_15
+    400100: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_16
+    400102: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_17
+    400104: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_18
+    400106: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_19
+    400108: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_2
+    400110: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_20
+    400112: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_21
+    400114: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_22
+    400116: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_23
+    400118: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_24
+    400120: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_25
+    400122: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_26
+    400124: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_27
+    400126: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_28
+    400128: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_29
+    400130: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_3
+    400132: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_30
+    400134: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_31
+    400136: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_32
+    400138: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_33
+    400140: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_34
+    400142: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_35
+    400144: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_36
+    400146: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_37
+    400148: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_38
+    400150: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_39
+    400152: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_4
+    400154: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_40
+    400156: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_41
+    400158: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_42
+    400160: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_43
+    400162: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_44
+    400164: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_45
+    400166: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_46
+    400168: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_47
+    400170: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_48
+    400172: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_49
+    400174: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_5
+    400176: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_50
+    400178: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_51
+    400180: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_52
+    400182: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_53
+    400184: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_54
+    400186: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_55
+    400188: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_56
+    400190: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_57
+    400192: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_58
+    400194: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_59
+    400196: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_6
+    400198: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_60
+    400200: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_61
+    400202: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_62
+    400204: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_63
+    400206: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_64
+    400208: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_65
+    400210: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_66
+    400212: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_67
+    400214: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_68
+    400216: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_69
+    400218: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_7
+    400220: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_70
+    400222: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_71
+    400224: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_72
+    400226: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_73
+    400228: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_74
+    400230: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_75
+    400232: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_76
+    400234: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_77
+    400236: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_78
+    400238: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_79
+    400240: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_8
+    400242: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_80
+    400244: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_81
+    400246: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_82
+    400248: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_83
+    400250: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_84
+    400252: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_85
+    400254: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_86
+    400256: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_87
+    400258: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_88
+    400260: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_89
+    400262: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_9
+    400264: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_90
+    400266: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_91
+    400268: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_92
+    400270: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_93
+    400272: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_94
+    400274: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_95
+    400276: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_96
+    400278: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_97
+    400280: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_98
+    400282: creature/ladysylvanaswindrunner/ladysylvanaswindrunner_bone_99
+    400284: //RootNode
+    2100000: creature_ladysylvanaswindrunner_ladysylvanaswindrunner_0
+    2100002: creature_ladysylvanaswindrunner_ladysylvanaswindrunner_1
+    2100004: creature_ladysylvanaswindrunner_ladysylvanaswindrunner_2
+    2100006: creature_ladysylvanaswindrunner_ladysylvanaswindrunner_3
+    4300000: creature/ladysylvanaswindrunner/ladysylvanaswindrunner
+    7400000: Stand [3]
+    7400002: AttackBow [8]
+    7400004: HoldBow [12]
+    7400006: LoadBow [14]
+    7400008: ReadyBow [16]
+    7400010: Run [18]
+    7400012: Death [51]
+    9500000: //RootNode
+    13700000: creature/ladysylvanaswindrunner/ladysylvanaswindrunner
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand [3]
+      takeName: Stand [3]
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackBow [8]
+      takeName: AttackBow [8]
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HoldBow [12]
+      takeName: HoldBow [12]
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LoadBow [14]
+      takeName: LoadBow [14]
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ReadyBow [16]
+      takeName: ReadyBow [16]
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run [18]
+      takeName: Run [18]
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death [51]
+      takeName: Death [51]
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
